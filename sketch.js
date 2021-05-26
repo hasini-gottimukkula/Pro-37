@@ -3,7 +3,7 @@ var contestantCount;
 var database;
 var quiz;
 var question;
-contestant;
+var contestant;
 
 var canva;
 
